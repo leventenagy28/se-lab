@@ -49,7 +49,7 @@ public class TorpedoStore {
       success = false;
     }
 
-    return success;
+    return success; //success
   }
 
   public boolean isEmpty(){
